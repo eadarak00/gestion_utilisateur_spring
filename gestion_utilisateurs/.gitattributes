@@ -1,0 +1,5 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+# Forcer LF pour tous les fichiers sauf les scripts Windows
+# * text=auto
+# *.cmd eol=crlf
